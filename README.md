@@ -6,4 +6,4 @@ a place to test submissions
 
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
